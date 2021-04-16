@@ -12,6 +12,6 @@ I'm going to stick with the tried and true *Don't be a dick* code of conduct unt
 
 There's not much going on here yet, so the below docs should cover you unless you want to add features. If you have any questions or want to know more, join the Discord.
 
-[Discord.py Docs](https://discordpy.readthedocs.io/en/latest/index.html)
-[Spotipy Docs](https://spotipy.readthedocs.io/en/2.18.0/#examples)
-[Discord Channel](https://discord.gg/EADX2EZszC)
+* [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/index.html)
+* [Spotipy Docs](https://spotipy.readthedocs.io/en/2.18.0/#examples)
+* [Discord Channel](https://discord.gg/EADX2EZszC)
