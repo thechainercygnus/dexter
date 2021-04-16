@@ -1,6 +1,6 @@
 # dexter
 
-<img align="center" src="/imgs/dexter_small.png" alt="Dexter Logo">
+<div style="text-align:center"><img src="/imgs/dexter_small.png" /></div>
 
 Dexter is your friendly self-hosted Discord Bot. He has a few useful things he can do for you.
 
