@@ -5,6 +5,8 @@ import logging
 import discord
 import os
 
+os.mkdir('logs')
+
 # Set up logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
