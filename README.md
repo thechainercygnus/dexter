@@ -2,7 +2,7 @@
 
 <p align=center><img src="/imgs/dexter_small.png" /></p>
 
-Dexter is your friendly self-hosted Discord Bot. He has a few useful things he can do for you.
+Dexter is your friendly self-hosted Discord Bot. He has a few useful things he can do for you. Join Dexter on our [Discord](https://discord.gg/EADX2EZszC)
 
 ---
 
